@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`the Header renders 1`] = `
+<div>
+  <header>
+    <h1
+      class="fancy-h1"
+      data-testid="h1"
+    >
+      Hello!
+    </h1>
+  </header>
+</div>
+`;

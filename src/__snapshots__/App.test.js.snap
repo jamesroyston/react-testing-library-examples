@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing 1`] = `
+<div>
+  <div
+    class="App"
+  >
+    <header
+      class="App-header"
+    >
+      <header>
+        <h1
+          class="fancy-h1"
+          data-testid="h1"
+        >
+          Hello!
+        </h1>
+      </header>
+    </header>
+  </div>
+</div>
+`;
